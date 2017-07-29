@@ -1,0 +1,22 @@
+/*********************设置背景************************************/
+.item-1 {
+    background: url("../images/bg7.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover ;
+}
+.item-2 {
+    background: url("../images/base.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+.item-5 {
+    background: url("../images/bg1.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+.item-4 {
+    background: url(../images/bg-work.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+/**********************设置背景End*****************************************/
